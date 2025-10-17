@@ -1,4 +1,4 @@
-Forest- cover classification model developed using Tree-based modeling and Multi-class classification
+Forest cover classification model developed using Tree-based modeling and Multi-class classification
 The goal is to **predict forest cover types** from cartographic and environmental data using **multi-class classification**.
 
 ## 📂 Project Overview
