@@ -19,7 +19,8 @@ This project applies **Decision Tree classification** to identify forest cover t
 - **Visualization**: Matplotlib for model interpretation
 
 ## 📊 Results
-- Achieved [Your Accuracy]% classification accuracy
+- Achieved [91.60<img width="731" height="581" alt="Screenshot 2025-10-17 013611" src="https://github.com/user-attachments/assets/828c2e61-2139-4546-9216-a3e833ff54bb" />
+]% classification accuracy
 - Identified key environmental features influencing forest cover types
 - Visualized model performance through confusion matrix analysis
 
@@ -42,3 +43,8 @@ This model can assist forestry services and environmental agencies in:
 
 
 *Part of Elevvo Pathways ML Internship - Task 3: Multi-class Classification*
+
+![Uploading Screenshot 2025-10-17 013611.png…]()
+<img width="1561" height="941" alt="Screenshot 2025-10-17 015555" src="https://github.com/user-attachments/assets/2e911ecc-a57e-4401-86ff-be4aa27715b8" />
+
+
