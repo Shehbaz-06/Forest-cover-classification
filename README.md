@@ -45,6 +45,5 @@ This model can assist forestry services and environmental agencies in:
 
 <img width="731" height="581" alt="Screenshot 2025-10-17 013611" src="https://github.com/user-attachments/assets/4aacb1d3-7afc-4b8d-aa89-8bc053449d17" />
 <img width="1561" height="941" alt="Screenshot 2025-10-17 015555" src="https://github.com/user-attachments/assets/2e911ecc-a57e-4401-86ff-be4aa27715b8" />
-![Uploading Screenshot 2025-10-17 013611.png…]()
 
 
